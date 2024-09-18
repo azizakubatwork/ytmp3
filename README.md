@@ -11,5 +11,5 @@ python app.py
 > press convert 
 
 
-All converted files get saved in ytmp3/downloads folder
+All converted files get saved to ytmp3/downloads folder
 
